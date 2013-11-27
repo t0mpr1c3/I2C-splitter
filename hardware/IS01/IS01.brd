@@ -168,7 +168,7 @@
 <text x="17.4625" y="17.4625" size="1.27" layer="22" font="vector" ratio="15" rot="MR0">Magic</text>
 <text x="11.43" y="17.4625" size="1.27" layer="22" font="vector" ratio="15" rot="MR0">Smoke</text>
 <text x="16.8275" y="4.28625" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">CC BY-SA 3.0</text>
-<text x="17.30375" y="15.875" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">C Splitter IX01</text>
+<text x="17.30375" y="15.875" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">C Splitter IS01</text>
 <wire x1="11.43" y1="23.495" x2="11.7475" y2="23.495" width="0" layer="48"/>
 <wire x1="11.7475" y1="23.495" x2="11.7475" y2="0" width="0" layer="48"/>
 <wire x1="0" y1="11.7475" x2="23.495" y2="11.7475" width="0" layer="48"/>
