@@ -1,5 +1,19 @@
 .DS_Store
 .DS_Store?
+
 *.b#?
 *.s#?
 
+*.GML
+*.GBL
+*.GBO
+*.GBS
+*.GBP
+*.GTL
+*.GTO
+*.GTS
+*.GTP
+*.gpi
+*.dri
+*.TXT
+*.zip
